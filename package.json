@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "@advanced-rest-client/events": "^0.2.29",
-    "@koa/cors": "^3.1.0",
+    "@koa/cors": "^3.4.3",
     "@koa/router": "^10.1.1",
     "amf-client-js": "^5.0.0-SEMANTIC-JSONSCHEMA.6",
     "fs-extra": "^10.0.0",
