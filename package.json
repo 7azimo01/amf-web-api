@@ -27,7 +27,7 @@
     "@koa/router": "^10.1.1",
     "amf-client-js": "^5.0.0-SEMANTIC-JSONSCHEMA.6",
     "fs-extra": "^10.0.0",
-    "koa": "^2.13.4",
+    "koa": "^3.0.1",
     "tmp-promise": "^3.0.3",
     "unzipper": "^0.10.11",
     "uuid": "^8.3.2"
